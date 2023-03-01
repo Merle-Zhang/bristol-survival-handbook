@@ -3,7 +3,7 @@ title:               布里斯托生存手册
 tagline:             'A handbook for Bristol CSer'
 description:         '给CS同学的布里斯托生存手册。 Made by <a href="https://github.com/merle-zhang" target="_blank">@merle-zhang</a>.'
 url:                 https://merle-zhang.github.io/bristol-survival-handbook
-baseurl:             'https://merle-zhang.github.io/bristol-survival-handbook/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
