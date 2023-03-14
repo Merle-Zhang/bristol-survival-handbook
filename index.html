@@ -7,7 +7,7 @@ title: Home
 之后我会整理成更logical的结构的。
 
 <ul>
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
     </li>
