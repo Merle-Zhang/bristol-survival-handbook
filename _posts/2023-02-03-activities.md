@@ -34,7 +34,7 @@ CSS会组织很多活动，每一个都建议参加，因为简历上太空了�
 
 #### 各种公司来办的讲座
 
-我在[networking]({% post_url 2023-03-22-networking %})那篇提到过，是很好的networking的机会，也可以了解一下公司是干什么的，为面试中的why company做准备
+我在[networking]({{ site.url }}{% post_url 2023-03-22-networking %})那篇提到过，是很好的networking的机会，也可以了解一下公司是干什么的，为面试中的why company做准备
 
 ### 社团
 
