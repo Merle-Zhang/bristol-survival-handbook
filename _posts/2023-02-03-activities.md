@@ -1,22 +1,81 @@
 ---
 layout: post
-title: Activities
+title: 校内/外活动
 ---
 > Status: WIP
-# 校内/外活动
 
 ## 校内
 
-game jam
+### Careers Service
 
-hackathon
+Careers Service会有很多活动和讲座，去他们官网看然后注册。不一定100%适用于SDE，但是对于找工小白还是很有用的，比如大一的我翘了课都去参加哈哈哈（别学我）还可以早点攒plus award需要的活动数量
 
-catch the flag
+Careers Service官网也会放出很多岗位，有些岗位可能只在那里放。我大一的实习就是两个月紧急在那上面找的
 
-robogals
+### CSS
+
+CSS会组织很多活动，每一个都建议参加，因为简历上太空了，活动是最好丰富简历的机会。不一定非要拿名次，除了攒经验就是长见识。大一参加过，大二大三可以用这些经历去申请更好的实习和工作，也可以用这些经历在之后的活动中取得更好的名次。
+
+需要的话，虽然经验并不多并且没拿过名次，但是也可以总结一下我的经验
+
+下面是我参加过的活动，没参加过的活动可能也有用，能丰富你关于写码的经历就有用
+
+#### Game Jam
+
+24小时做一个游戏，非常有意思，主要为了开心
+
+#### Hackathon
+
+很好积攒项目经历的机会
+
+#### Catch The Flag (CTF)
+
+安全方向的比赛，也非常有意思，可以增加很多关于计算机底层和linux的知识。不过安全方向的岗位对于外国人来说很难通过clearance check
+
+#### 各种公司来办的讲座
+
+我在[networking]({% post_url 2023-03-22-networking %})那篇提到过，是很好的networking的机会，也可以了解一下公司是干什么的，为面试中的why company做准备
+
+### 社团
+
+#### robogals
+
+教小朋友做乐高机器人，对写代码没什么帮助，但是我很喜欢volunteering，而且总归跟tech有点关系
+
+#### Bristol Ethical Hackers
+
+依然是安全相关，bristol的安全方向感觉挺强的，而且社团也会以学校名义申请CTF平台免费使用权，比如hack the box，try hack me之类的，很好的资源。不过门槛挺高的，做好心理准备，我每次去都划水，可能都完成不了20%，但是导师很愿意回答问题，不会做就直接问
+
+### TA
+
+也是挺好的经历，可以和老师加深感情（也可以和学弟加深感情），还有钱拿
+
+不过踩雷的点是，我怕竞争太大，每一门课都选了TA，结果分到的都是我不愿意去的，所以还是选自己愿意去的比较好
+
+### Search Summer Intern
+
+我申请了但是没去，不过是积攒科研经历的好机会，准备读博的话推荐
 
 ## 校外
+
+Spring intern: 大一一定不能错过的机会 甚至有人做了三四个时间不冲突的spring intern
 
 jpmc code for good
 
 google hashcode
+
+Citadel Terminal
+
+Citadel The Data Open
+
+Optiver Ready Trader Go
+
+IMC Prosperity
+
+以后想到哪些再加上，金融和trading行业也有很多比赛，别错过，就算以后不去也是很好的经历
+
+---
+
+还是那句话，简历太空，没有实习得用别的填充。
+
+我自己的经历是，大一疯狂参加活动，大二用积累的活动经历申请实习，大三用实习申请研究社/fulltime工作，这样时间错开就不会太忙。如果活动，找工，申研都赶在一起的话就很忙。趁大一比较闲的时候多参加活动吧

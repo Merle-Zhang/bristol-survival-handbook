@@ -3,16 +3,56 @@ layout: default
 title: Home
 ---
 
-目前结构还比较乱，大概是时间顺序，可以点下面的链接去看每个po。
-之后我会整理成更logical的结构的。
-
 <ul>
+  <li>学习
+    <ul>
+      <li>
+        <a href="{% post_url 2023-03-22-units-in-bristol %}">选课</a>
+      </li>
+    </ul>
+  </li>
+  <li>活动
+    <ul>
+      <li>
+        <a href="{% post_url 2023-02-03-activities %}">活动</a>
+      </li>
+    </ul>
+  </li>
+  <li>找工
+    <ul>
+      <li>
+        <a href="{% post_url 2023-03-12-behavioral-questions %}">Behavioral Quesion</a>
+      </li>
+      <li>
+        <a href="{% post_url 2023-03-12-interview-process %}">面试流程</a>
+      </li>
+      <li>
+        <a href="{% post_url 2023-03-12-leetcode %}">刷题</a>
+      </li>
+      <li>
+        <a href="{% post_url 2023-03-14-online-assessment %}">OA</a>
+      </li>
+      <li>
+        <a href="{% post_url 2023-03-14-technical-interview %}">Technical Interview</a>
+      </li>
+      <li>
+        <a href="{% post_url 2023-03-22-mock-interview. %}">Mock Interview</a>
+      </li>
+      <li>
+        <a href="{% post_url 2023-03-22-networking %}">Networking</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
+<!-- <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
 
 <!-- <div class="posts">
   {% for post in paginator.posts %}
